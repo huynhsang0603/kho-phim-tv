@@ -10,7 +10,7 @@
             "name": "Nhà Chú Ý (Gazes)",
             "internalName": "GazesProvider",
             "description": "Xem phim tu nguon Gazes ho tro thuyet minh AI",
-            "jarUrl": "https://raw.githubusercontent.com/huynhsang0603/kho-phim-tv/refs/heads/main/GazesProvider.jar",
+            "jarUrl": "https://raw.githubusercontent.com/huynhsang0603/kho-phim-tv/refs/heads/main/GazesProvider.aar",
             "url": "https://raw.githubusercontent.com/huynhsang0603/kho-phim-tv/refs/heads/main/GazesProvider.cs3",
             "iconUrl": "https://wikimedia.org",
             "apiVersion": 1,
