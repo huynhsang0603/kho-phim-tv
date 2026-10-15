@@ -1,0 +1,29 @@
+{
+    "name": "Huynh Cloudstream Repository",
+    "description": "Kho phim Gazes thuyet minh AI cua Huynh",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://githubusercontent.com/huynhsang0603/kho-phim-tv/refs/heads/main/plugins.json"
+    ],
+    "plugins": [
+        {
+            "name": "Nhà Chú Ý (Gazes)",
+            "internalName": "GazesProvider",
+            "description": "Xem phim tu nguon Gazes ho tro thuyet minh AI",
+            "jarUrl": "https://raw.githubusercontent.com/huynhsang0603/kho-phim-tv/refs/heads/main/GazesProvider-debug.aar",
+            "url": "https://raw.githubusercontent.com/huynhsang0603/kho-phim-tv/refs/heads/main/GazesProvider-debug.cs3",
+            "iconUrl": "https://wikimedia.org",
+            "apiVersion": 1,
+            "version": 1,
+            "status": 1,
+            "authors": [
+                "Huynh"
+            ],
+            "tvTypes": [
+                "Movie",
+                "TvSeries"
+            ],
+            "repositoryUrl": "https://github.com/huynhsang0603/kho-phim-tv"
+        }
+    ]
+}
