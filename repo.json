@@ -3,7 +3,7 @@
     "description": "Kho phim Gazes thuyet minh AI cua Huynh",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://githubusercontent.com/"
+        "https://raw.githubusercontent.com/huynhsang0603/kho-phim-tv/refs/heads/main/plugins.json"
     ],
     "plugins": [
         {
